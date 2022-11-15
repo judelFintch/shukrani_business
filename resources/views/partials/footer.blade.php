@@ -7,11 +7,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Presento<span>.</span></h3>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
+            278, route Likasi, carrefour, Q/Industriel, C/Kampemba, Ville de  Lubumbashi, Province du Haut-Katanga
               United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              <strong>Phone:</strong> (+243) 97 238 7820<br>
+              <strong>Email:</strong> info@shukranibusiness.com<br>
             </p>
           </div>
 
@@ -39,7 +38,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p></p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
