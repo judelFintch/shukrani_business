@@ -12,8 +12,8 @@
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
          
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a href="blog.html">Blog</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li><a href="http://shukranibusiness.com:2096/">Web Mail</a></li>
+          
             
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
