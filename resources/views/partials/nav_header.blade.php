@@ -13,14 +13,13 @@
          
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a href="http://shukranibusiness.com:2096/">Web Mail</a></li>
-          
-            
+      
           </li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+
     </div>
   </header><!-- End Header -->
