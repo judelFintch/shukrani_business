@@ -7,23 +7,13 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3>Presento<span>.</span></h3>
             <p>
-            278, route Likasi, carrefour, Q/Industriel, C/Kampemba, Ville de  Lubumbashi, Province du Haut-Katanga
-              United States <br><br>
+            5A; Avenue Kamalondo 2, Q ngambela 2 , commune Lubumbashi, Ville Lubumbashi <br><br>
               <strong>Phone:</strong> (+243) 97 238 7820<br>
               <strong>Email:</strong> info@shukranibusiness.com<br>
             </p>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"></a></li>
-            </ul>
-          </div>
+          
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
@@ -36,13 +26,7 @@
             </ul>
           </div>
 
-          <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Join Our Newsletter</h4>
-            <p></p>
-            <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
-          </div>
+          
 
         </div>
       </div>
@@ -64,10 +48,8 @@
       </div>
       <div class="social-links text-center text-md-end pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://web.facebook.com/profile.php?id=100088260632751" class="facebook"><i class="bx bxl-facebook"></i></a>
+        
       </div>
     </div>
   </footer><!-- End Footer -->

@@ -99,33 +99,14 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+              <span data-purecounter-start="0" data-purecounter-end="56" data-purecounter-duration="1" class="purecounter"></span>
               <p>Projects</p>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hours Of Support</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Hard Workers</p>
-            </div>
-          </div>
-
         </div>
-
       </div>
     </section><!-- End Counts Section -->
 
-   
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg ">
@@ -214,10 +195,9 @@
         SB faisant sa spécialité dans la fourniture de biens, en travaillant avec BOSS MINING SA sous plusieurs bons de commandes de produits alimentaires (thé,café,sardine,savon,…)
         RUASHI MINING SA (2022)<br>
         SB faisant sa spécialité dans la fourniture de biens, en travaillant avec RUASHI MINING SA sous plusieurs bons de commandes de 500 à 1200 tonnes. Sables, graviers, …<br>
-
         </p>
 
-        
+      
       </div>
     </section><!-- End Pricing Section -->
 
@@ -329,7 +309,7 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>278, route Likasi, carrefour, Q/Industriel, C/Kampemba, Ville de  Lubumbashi, Province du Haut-Katanga</p>
+                  <p>5A; Avenue Kamalondo 2, Q ngambela 2 , commune Lubumbashi, Ville Lubumbashi</p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -342,7 +322,7 @@
               <div class="col-md-6">
                 <div class="info-box mt-4">
                   <i class="bx bx-phone-call"></i>
-                  <h3>Call Us</h3>
+                  <h3>Tel</h3>
                   <p>(+243) 97 238 7820<br>(+243) 99 416 5305</p>
                 </div>
               </div>
@@ -376,10 +356,7 @@
           </div>
 
         </div>
-
       </div>
     </section><!-- End Contact Section -->
-
   </main><!-- End #main -->
-
   @endsection
